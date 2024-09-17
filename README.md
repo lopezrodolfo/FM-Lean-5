@@ -1,4 +1,4 @@
-# Lean Proofs and Functional Programming
+# Lean3 Proofs and Functional Programming
 
 This Lean project contains implementations of various mathematical functions, operations, and proofs, including:
 
